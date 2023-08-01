@@ -5,5 +5,6 @@
 
 - 📫 How to reach me **andrianow817@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Katarsis-601&show_icons=true&theme=radical&locale=en&layout=compact" alt="Katarsis-601" /></p>
 
+
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Katarsis-601&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="Katarsis-601" /></p>
