@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Andriano Wijaya</h1>
-<h3 align="center">A self-learner developer from Indonesia</h3>
-
-- 🌱 I’m currently learning about **Javascript** things
-
-- 📫 How to reach me **andrianow817@gmail.com**
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andriano-wijaya-4a401a218) 
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Katarsis-601&theme=gruvbox&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Katarsis-601&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Katarsis-601&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="Katarsis-601" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
